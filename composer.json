@@ -8,7 +8,7 @@
   "license": "MIT",
   "require": {
     "php": ">=7.0.0",
-    "react/react": "^0.4.2"
+    "react/react": "^0.4"
   },
   "autoload": {
     "psr-4": {
